@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+.search-bar {
+  padding: 20px;
+  margin: auto;
+}
